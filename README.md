@@ -8,7 +8,9 @@ Right now, I'm planning to write and edit the book with git and on GitHub.
 
 My name is [Steven Rosenberg](http://passthejoe.net). I am a journalist, writer and developer. I have written quite a bit about my experiences with computer hardware and software from the perspective of an inquiring user learning things along the way.
 
-Like many who have been blogging over the years, I have posts in various systems that I'd like to bring under my own control. I began using Linux and BSD operating systems around 2007 when I didn't have a computer of my own and was hacking on old machines that included a surplus thin client and cast-off laptops. 
+Like many who have been blogging over the years, I have posts in various systems that I'd like to bring under my own control. Nobody seems to write books about Linux desktop use. There's certainly no money in it.
+
+I began using Linux and BSD operating systems around 2007 when I didn't have a computer of my own and was hacking on old machines that included a surplus thin client and cast-off laptops. 
 
 In more recent years — 2012 and 2017 — I have used Windows on new laptops in order to give the OS "a chance" and avoid compatibility issues that can affect new hardware. I gave Windows 10 maybe two years on my current HP Envy laptop before giving up after some very thorny upgrades and enough quirks to make me question why I didn't just return to an OS where simplicity, stability and performance are all part of the package (and package management system).
 
