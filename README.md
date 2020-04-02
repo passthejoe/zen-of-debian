@@ -6,11 +6,17 @@ Right now, I'm planning to write and edit the book with git and on GitHub.
 
 ## Who am I?
 
-My name is [Steven Rosenberg](http://passthejoe.net). I am a journalist, writer and developer. I have written quite a bit about my experiences with computer hardware and software from the perspective of an inquiring user learning things along the way.
+My name is [Steven Rosenberg](http://passthejoe.net). I am a journalist, writer and developer. Over the last decade and then some, I have written quite a bit about my experiences with computer hardware and software as a pretty much regular user learning things along the way.
 
-Like many who have been blogging over the years, I have posts in various systems that I'd like to bring under my own control. Nobody seems to write books about Linux desktop use. There's certainly no money in it.
+During years and years of blogging, I have written hundreds of posts about Debian, Ubuntu, Fedora and other Linux distributions. I haven't counted, but I probably wrote more than 100 posts about OpenBSD.
 
-I began using Linux and BSD operating systems around 2007 when I didn't have a computer of my own and was hacking on old machines that included a surplus thin client and cast-off laptops. 
+I'm sure I've written about the drought in Linux book publishing, and I know that few are writing — and even fewer are publishing — books about how to use Linux on the desktop. There's certainly no money in it.
+
+I began using Linux and BSD operating systems around 2007 when I didn't have a computer of my own and was hacking on old machines. I had a surplus thin client with a VIA CPU and IDE hard and CD drives hanging out the back. I bought a very, very used Compaq laptop for $15. Then I got a broken Gateway laptop for free. I fixed it and ran it for years. Even when these castoff computers had a Windows OS, I always ran Linux or BSD on them. The first distro I _really_ used was probably Puppy Linux. 
+
+During those early Linux days, I found out about Ubuntu during the 6.06 and 7.04 era and had heard how it was an "easier" Debian. (First question: What's Debian, and why is it so hard?)
+
+When Debian Etch came out, I read about it, downloaded an ISO and gave it a spin. The installer wasn't much more complicated than Ubuntu's, and once I had Debian running, it looked, smelled and worked like a bluer, faster Ubuntu. At that time, Debian, Ubuntu, SuSE, Fedora and Red Hat Enterprise Linux/CentOS all shipped with a very similar GNOME 2 desktop. Package management was different (yum vs apt and all), but it soon became very apparent that if you could run Ubuntu, you could run Debian.
 
 In more recent years — 2012 and 2017 — I have used Windows on new laptops in order to give the OS "a chance" and avoid compatibility issues that can affect new hardware. I gave Windows 10 maybe two years on my current HP Envy laptop before giving up after some very thorny upgrades and enough quirks to make me question why I didn't just return to an OS where simplicity, stability and performance are all part of the package (and package management system).
 
