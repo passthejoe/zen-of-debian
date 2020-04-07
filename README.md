@@ -1,8 +1,8 @@
 # The Zen of Debian
 
-"The Zen of Debian" is a book about the Debian GNU/Linux operating system. It's also a personal book about my computing journey and how an operating system like Debian — or really any Linux- or BSD-based OS — can bring order, calm, productivity and stability to your life and work.
+"The Zen of Debian" is an essay, or maybe a book about the Debian GNU/Linux operating system. It's also a personal account of my computing journey and how an operating system like Debian — or really any Linux- or BSD-based OS — can bring order, calm, productivity and stability to your life and work.
 
-Right now, I'm planning to write and edit the book with git and on GitHub.
+Right now, I'm planning to work on this project with git and on a hosted repository, currently on the <https://codeberg.org> service.
 
 ## Who am I?
 
