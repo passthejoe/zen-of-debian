@@ -1,10 +1,26 @@
 ## The daily update
 
-Western culture tells us that repetition is bad.
+Repetition is bad, Western culture tells us.
 
-Repetition is mindless, we are told.
+Repetition is mindless, it says.
 
-Yet we are told mastery is good. But it's better when that mastery is the result of pure genius and not relentless, repetitious toil.
+But how do you get good at something? How do you _achieve mastery_?
+
+Knowing what you're doing is important. You can read 100 books about how to play the violin. There are very likely violin methods going back hundreds of years.
+
+If you read a couple dozen violin methods, you'd know a lot about the violin: how they're made, how they're tuned, how they're played.
+
+But eventually you need to get your hands on a fiddle, put it under your chin and start sawing away with a horsehair bow. The instruction of a good teacher will help. It's probably mandatory.
+
+Then you need to _get good_.
+
+How do you do that? There's really only one way.
+
+You do that thing. Many, many, many times. Every day. For as long as it takes. Understanding and knowledge are important, but _doing well_ takes _doing often_.
+
+Yet we are told mastery is good. So how do you arrive at mastery?
+
+But it's better when that mastery is the result of pure genius and not relentless, repetitious toil.
 
 But even geniuses need to practice. 
 
