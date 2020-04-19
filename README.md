@@ -6,7 +6,7 @@ I am working on this project with Git and a hosted repository. It currently live
 
 ## Who am I?
 
-My name is [Steven Rosenberg](http://passthejoe.net). I am a journalist, writer and developer. Over the last decade and then some, I have written quite a bit about my experiences with computer hardware and software as a pretty much regular user learning things along the way.
+My name is [Steven Rosenberg](http://passthejoe.net). I am a journalist, writer and developer. Over the last decade and then some, I have written quite a bit about my experiences with computer hardware and software as a pretty much regular user learning things along the way. Much of that writing can be found at <http://blogs.dailynews.com/click> (mirrored at <https://passthejoe.wordpress.com>) and <http://stevenrosenberg.net/blog>. Newer posts are at <http://passthejoe.net>.
 
 During years and years of blogging, I have written hundreds of posts about Debian, Ubuntu, Fedora and other Linux distributions. I haven't counted, but I probably wrote more than 100 posts about OpenBSD.
 
