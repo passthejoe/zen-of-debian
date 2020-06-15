@@ -30,4 +30,4 @@ With my current laptop, a 2017 HP Envy, I decided to spend some time using Windo
 
 **June 14, 2020:** I agree with [the movement that says](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/) the technology terms "master/slave" should go away, and the primary Git (and GitHub and Codeberg) repository in this project is now called `main`.
 
- I don't think the available instructions out at this point are specific enough to cover pushing to two remote repos, and as a result I had to use the `-f` switch to get things in sync with [the Codeberg version](https://codeberg.org/passthejoe/zen-of-debian).
+ I don't think the available instructions at this point are specific enough to cover pushing to two remote repos, and as a result I had to use the `-f` switch to get things in sync with [the Codeberg version](https://codeberg.org/passthejoe/zen-of-debian).
