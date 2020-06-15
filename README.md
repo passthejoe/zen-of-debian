@@ -1,12 +1,12 @@
 # The Zen of Debian
 
-"The Zen of Debian" is an essay, or maybe a book about the Debian GNU/Linux operating system. It's also a personal account of my computing journey and how an operating system like Debian — or really any Linux- or BSD-based OS — can bring order, calm, productivity and stability to your life and work.
+"The Zen of Debian" is an essay about Debian GNU/Linux. It's also a personal account of my computing journey and how an operating system like Debian — or really any Linux- or BSD-based OS — can bring order, calm, productivity and stability to your life and work.
 
-Right now, I'm planning to work on this project with git and on a hosted repository, currently on the <https://codeberg.org> service.
+I am working on this project with Git and a hosted repository. It currently lives on [Codeberg](https://codeberg.org/passthejoe/zen-of-debian) and [GitHub](https://github.com/passthejoe/zen-of-debian).
 
 ## Who am I?
 
-My name is [Steven Rosenberg](http://passthejoe.net). I am a journalist, writer and developer. Over the last decade and then some, I have written quite a bit about my experiences with computer hardware and software as a pretty much regular user learning things along the way.
+My name is [Steven Rosenberg](http://passthejoe.net). I am a journalist, writer and developer. Over the last decade and then some, I have written quite a bit about my experiences with computer hardware and software as a pretty much regular user learning things along the way. Much of that writing can be found at <http://blogs.dailynews.com/click> (mirrored at <https://passthejoe.wordpress.com>) and <http://stevenrosenberg.net/blog>. Newer posts are at <http://passthejoe.net>.
 
 During years and years of blogging, I have written hundreds of posts about Debian, Ubuntu, Fedora and other Linux distributions. I haven't counted, but I probably wrote more than 100 posts about OpenBSD.
 
