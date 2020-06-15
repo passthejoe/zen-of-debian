@@ -28,6 +28,4 @@ I have run _a lot_ of [Fedora over the years](https://en.wikipedia.org/wiki/Fedo
 
 With my current laptop, a 2017 HP Envy, I decided to spend some time using Windows 10, and it was a couple of years before thorny upgrades, persistent bugs and lagging performance led me to get a small, cheap M.2 NVMe SSD, and install Debian Stable (version 10 Buster). I immediately began to feel comfortable and productive on the computer I use for wrangling websites, writing and editing, hacking on Ruby, and all of the other day-to-day things I do with a PC.  
 
-**June 14, 2020:** I agree with [the movement that says](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/) the technology terms "master/slave" should go away, and the primary Git (and GitHub and Codeberg) repository in this project is now called `main`.
-
-I'm still trying to get this right, and having two remote repos isn't helping. I have a Git config file set up so I can push to both repos with one command, and that is not working. I am pushing to the repos with individual commands, and that is working for now.
+**June 14, 2020:** I agree with [the movement that says](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/) the technology terms "master/slave" should go away, and the primary Git (and GitHub and Codeberg) repository in this project is now called `main` instead of `master`.
