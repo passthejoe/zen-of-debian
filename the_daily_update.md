@@ -44,12 +44,6 @@ Running `sudo apt update` and then `sudo apt upgrade` won't get you to Carnegie 
 
 But you'll have a fully patched Debian system that's ready to run.
 
-## Installing Debian: How to get good
-
-I learned to embrace the process of installing Debian by doing it dozens and dozens of times, beginning when I first "discovered" Etch until now, when I run Buster on a 2017 HP laptop and 2011 iMac desktop. During the many years between Etch and Buster, it helped a great deal that I had many older "test" computers and hard drives at my disposal. If I screwed anything up, I could start over.
-
-I tended to do it the same way every time: Encrypted LVM most of the time, accepting most if not all of the installer's defaults.
-
 And keeping the system up to date goes the same way most times:
 
 ```
@@ -81,13 +75,5 @@ Weekly is better. I like to think of running an update/upgrade daily as _somethi
 Many days there are no updates. Sometimes you have two or three. On a day when Firefox updates, there are so many language packages that you could have 50.
 
 Keep an eye on <http://debian.org/security>. There you can see all of the updates that the Debian Security Team has sent through the repositories to keep your system running as securely as possible. Sometimes there are even bug fixes, though the whole point of Debian Stable (that being _stability_) means that security patches are king and software "improvements" wait for the next release.
-
-But what if you really want those _improvements_? After using Linux and BSD for years, I've come to learn that latest doesn't always mean greatest, and being on the edge often brings new bugs along with it.
-
-That's not to say that you can't run newer software in Debian. There's always the Testing and Unstable distributions, though even those I find to be behind Fedora and Arch in almost all cases.
-
-There are some newer packages in Debian Backports. And now software packaged in the Flatpak format can run on Debian Stable. Since Buster is very IDE-poor in its repos, I have successfully used the Flathub site (where Flatpaks tend to live) to successfully install and run Apache NetBeans and IntelliJ IDEA Community. I haven't yet tried Eclipse, but Flathub has it.
-
-Why none of these big-time Java IDEs are in Debian is another story. Eclipse and NetBeans weren't "ready" when Buster was frozen, and I think there are licensing reasons why IntelliJ is not in Debian. Flathub means you can get all three with little hassle.
 
 My old laptop still runs Fedora. When things are working, I tend to stick with it. In Fedora, there are updates just about every day. Sometimes I don't open it for a month at a time. When I wait that long, there are hundreds of packages ready to upgrade and up to a gigabyte of data that Fedora's package-manager, `dnf`, needs to pull down.
