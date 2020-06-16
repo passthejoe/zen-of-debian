@@ -30,7 +30,7 @@ With my current laptop, a 2017 HP Envy, I decided to spend some time using Windo
 
 ## Chapters
 
-[The Daily Update](/passthejoe/zen-of-debian/src/branch/main/installing_debian.md)
+[The Daily Update](/passthejoe/zen-of-debian/src/branch/main/the_daily_update.md)
 
 [Installing Debian](/passthejoe/zen-of-debian/src/branch/main/installing_debian.md)
 
