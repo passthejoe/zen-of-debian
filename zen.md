@@ -8,4 +8,4 @@ Also with those tools, you have the power and the option to upgrade your *Stable
 
 Whether you are a full-fledged Debian Developer, or a new user installing Debian for the first time, you are part of a history and tradition that goes back to the beginning of the Linux kernel in the 1990s, the GNU tools in the 1980s, and the first Multics and Unix operating systems of the 1960s and 1970s.
 
-
+Time-sharing, an everything-is-a-file philosophy and dedication to portability were part of Unix in the 1970s, and they continue to be so today — even if you're *technically* the only user on your laptop or desktop computer. The days of Unix-running Digital Equipment Corporation VAX computers accommodating dozens of simultaneous users via "dumb" terminals over serial connections may be over, but those same dozens of users can connect to shared Unix/Linux systems via secure shell, and we know that thousands can interact with systems that connect via Web servers and are backed by databases.
