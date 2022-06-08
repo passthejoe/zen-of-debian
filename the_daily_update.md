@@ -34,9 +34,9 @@ Scales, exercises, etudes, studies. And more of the same. Every day. Year after 
 
 Without constant repetition, Joshua Bell the virtuoso could never happen.
 
-I don't want to compare mastering the violin with washing dishes, sweeping the floor, and setting up and maintaining a Linux system.
+I don't *necessarily* want to compare mastering the violin with washing dishes, sweeping the floor, and setting up and maintaining a Linux system.
 
-But I do. And I will.
+But I *could* do that. And I will.
 
 The secret to mastery is embracing the toil, the repetition, the practice.
 
@@ -68,12 +68,10 @@ steven@steven-debian:~$ sudo apt upgrade
 
 And that's about it during the life of a Debian Stable release.
 
-On my current Debian laptop, I do this check every day, usually in the morning. There are never too many updates because it's Debian Stable. I could run an update/upgrade once a week or even once a month. 
+On my current Debian laptop, I do this check every day, usually in the morning. There are never too many updates because it's Debian Stable. I could run an update/upgrade once a week, or even once a month. 
 
 Weekly is better. I like to think of running an update/upgrade daily as _something you do_.
 
 Many days there are no updates. Sometimes you have two or three. On a day when Firefox updates, there are so many language packages that you could have 50.
 
 Keep an eye on <http://debian.org/security>. There you can see all of the updates that the Debian Security Team has sent through the repositories to keep your system running as securely as possible. Sometimes there are even bug fixes, though the whole point of Debian Stable (that being _stability_) means that security patches are king and software "improvements" wait for the next release.
-
-My old laptop still runs Fedora. When things are working, I tend to stick with it. In Fedora, there are updates just about every day. Sometimes I don't open it for a month at a time. When I wait that long, there are hundreds of packages ready to upgrade and up to a gigabyte of data that Fedora's package-manager, `dnf`, needs to pull down.
