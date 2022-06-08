@@ -40,7 +40,8 @@ With my current laptop, a 2017 HP Envy, I decided to spend some time using Windo
 
 [The Zen in Debian](/passthejoe/zen-of-debian/src/branch/main/zen.md)
 
-[The Command Line](/passthejoe/zen-of-debian/blob/main/command_line.md)
+[The Command Line](https://github.com/passthejoe/zen-of-debian/blob/main/command_line.md)
+
 
 **Aug. 8, 2020:** Adding chapters: The Zen in Debian, The command line
 
