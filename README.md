@@ -1,8 +1,10 @@
 # The Zen of Debian
 
 "The Zen of Debian" is an essay about Debian GNU/Linux. It's also a personal account of my computing journey and how an operating system like Debian — or really any Linux- or BSD-based OS — can bring order, calm, productivity and stability to your life and work.
-
-I am working on this project with Git and a hosted repository. It currently lives on [Codeberg](https://codeberg.org/passthejoe/zen-of-debian) and [GitHub](https://github.com/passthejoe/zen-of-debian).
+ 
+ ## Future plans
+ 
+ I'm now kind of stuck on doing this book with LaTeX. I've been looking into it.
 
 ## Who am I?
 
