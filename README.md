@@ -38,7 +38,7 @@ With my current laptop, a 2017 HP Envy, I decided to spend some time using Windo
 
 [Old vs. New](/passthejoe/zen-of-debian/src/branch/main/old_vs_new.md)
 
-[The Zen in Debian](/passthejoe/zen-of-debian/src/branch/main/zen.md)
+[The Zen in Debian](/passthejoe/zen-of-debian/blob/main/zen.md)
 
 [The Command Line](https://github.com/passthejoe/zen-of-debian/blob/main/command_line.md)
 
