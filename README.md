@@ -1,10 +1,6 @@
 # The Zen of Debian
 
 "The Zen of Debian" is an essay about Debian GNU/Linux. It's also a personal account of my computing journey and how an operating system like Debian — or really any Linux- or BSD-based OS — can bring order, calm, productivity and stability to your life and work.
- 
- ## Future plans
- 
- I'm now kind of stuck on doing this book with LaTeX. I've been looking into it.
 
 ## Who am I?
 
@@ -46,3 +42,5 @@ With my current laptop, a 2017 HP Envy, I decided to spend some time using Windo
 **Aug. 8, 2020:** Adding chapters: The Zen in Debian, The command line
 
 **June 14, 2020:** I agree with [the movement that says](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/) the technology terms "master/slave" should go away, and the primary Git (and GitHub and Codeberg) repository in this project is now called `main` instead of `master`.
+
+**June 8, 2022:** It's been a long time. Now I'm thinking that I want to format this in LaTeX and output it as a PDF. I'm looking into that.
