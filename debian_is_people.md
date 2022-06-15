@@ -1,4 +1,4 @@
-Debian is people
+### Debian is people
 
     Debian lives in its mailing lists. Subscribe to a bunch just to get the flavor.
 
