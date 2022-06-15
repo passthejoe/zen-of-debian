@@ -38,6 +38,8 @@ With my current laptop, a 2017 HP Envy, I decided to spend some time using Windo
 
 [The Command Line](/command_line.md)
 
+[Debian Is People](/debian_is_people.md)
+
 
 **Aug. 8, 2020:** Adding chapters: The Zen in Debian, The command line
 
