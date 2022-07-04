@@ -1,5 +1,7 @@
 # The Zen of Debian
 
+**Note:** The Zen of Debian is [moving to Codeberg](https://codeberg.org/passthejoe/zen-of-debian). Go there for the latest changes and the new LaTeX-set PDF.
+
 "The Zen of Debian" is an essay about Debian GNU/Linux. It's also a personal account of my computing journey and how an operating system like Debian — or really any Linux- or BSD-based OS — can bring order, calm, productivity and stability to your life and work.
 
 ## Who am I?
